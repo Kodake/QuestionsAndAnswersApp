@@ -1,0 +1,22 @@
+.container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-ing {
+    background-color: #F05F44;
+    border-color: #F05F44;
+    margin-top: 10px;
+}
+
+.btn-ing:hover {
+    background-color: #EE4B08;
+    border-radius:  #EE4B08;
+}
+
+.row {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

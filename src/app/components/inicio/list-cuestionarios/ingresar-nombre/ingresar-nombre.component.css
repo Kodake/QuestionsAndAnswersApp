@@ -1,0 +1,20 @@
+.container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-sig {
+    background-color: #F05F44;
+    border-color: #F05F44;
+}
+
+.btn-sig:hover {
+    background-color: #EE4B08;
+    border-radius:  #EE4B08;
+}
+
+input[placeholder] {
+    text-align: center;
+}
